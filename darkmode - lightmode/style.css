@@ -1,0 +1,63 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.div-1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  background-color: aquamarine;
+  color: black;
+}
+
+h1 {
+  margin: 10px auto;
+  text-transform: uppercase;
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  margin: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+p {
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@keyframes animate-button {
+  0% {
+    background-color: black;
+    color: white;
+  }
+  100% {
+    background-color: white;
+    color: black;
+  }
+}
+
+button {
+  border: 3px solid green;
+  background-color: aquamarine;
+  cursor: pointer;
+  padding: 2vh;
+  border-radius: 10%;
+  margin-right: 30px;
+  font-weight: bolder;
+  font-size: larger;
+  text-transform: uppercase;
+  animation-name: animate-button;
+  animation-timing-function: ease-in-out;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+.light-theme {
+  background-color: white;
+  color: black;
+}

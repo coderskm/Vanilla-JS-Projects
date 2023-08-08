@@ -1,0 +1,31 @@
+body {
+  padding: 50px 100px;
+}
+
+h1 {
+  text-align: center;
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 0px;
+}
+
+#textbox {
+  width: 99.6%;
+  border-color: cornflowerblue;
+  margin: 0px;
+  font-size: 25px;
+  font-weight: 800;
+}
+
+p {
+  text-align: center;
+  background-color: cornflowerblue;
+  text-transform: uppercase;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 0px;
+}
