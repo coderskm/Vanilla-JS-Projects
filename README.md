@@ -1,23 +1,25 @@
-# darkmode - lightmode
+# VANILLA JAVASCRIPT PROJECTS
 
-# temperature converter
+### darkmode - lightmode
 
-# word counter
+### temperature converter
 
-# form validation
+### word counter
 
-# stopwatch
+### form validation
 
-# to-do list
+### stopwatch
 
-# theme switcher
+### to-do list
 
-# counter
+### theme switcher
 
-# calculator
+### counter
 
-# navigation
+### calculator
 
-# quiz
+### navigation
 
-# age calculator
+### quiz
+
+### age calculator
