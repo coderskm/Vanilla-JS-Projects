@@ -6,10 +6,10 @@
 6> stopwatch (D)
 7> navigation 
 8> sticky menu bar (D)
-9> color generator 
+9> color generator (D)
 10> password generator 
-11> random paragraph generator 
-12> image slider
+11> lorem ipsum generator (D)
+12> image slider 
 13> drum kit                           
 14> countdown timer                   
 -------------------------------------

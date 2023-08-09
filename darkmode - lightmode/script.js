@@ -13,3 +13,7 @@ btn.addEventListener('click', () => {
     }
 
 })
+
+    (function () {
+    
+})()

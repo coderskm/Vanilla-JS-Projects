@@ -1,0 +1,45 @@
+.div-1 {
+  margin: 50px auto;
+  border: 1px solid black;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  background-color: aqua;
+  margin: 0px;
+  border: 2px solid black;
+  padding: 30px;
+}
+
+.input-field {
+  padding: 25px;
+  text-align: center;
+  background-color: aquamarine;
+  border: 2px solid black;
+}
+
+#char-count {
+  padding: 10px 10px;
+  font-size: larger;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+
+button {
+  padding: 15px 5px 10px;
+  margin-top: 5px;
+  background-color: bisque;
+  border-radius: 10px;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+#textbox {
+  width: 99.1%;
+  height: 70vh;
+  margin-bottom: 0px;
+  font-size: 15px;
+  border: 2px solid black;
+
+}
