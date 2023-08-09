@@ -4,6 +4,12 @@ body{
 
 h1{
     text-align: center;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    color: cornsilk;
+    margin: 0px;
+    border: 2px solid red;
+    padding: 12px;
 }
 
 #container{
@@ -11,6 +17,7 @@ h1{
     background-color: indigo;
     padding: 50px;
     color:white;
+    border: 3px solid green;
 }
 
 .input-div{
@@ -34,4 +41,5 @@ label{
 
 #equal-sign{
     font-size: 22px;
+    font-weight: 800;
 }

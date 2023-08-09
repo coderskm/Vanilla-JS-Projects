@@ -1,0 +1,54 @@
+body{
+    margin:0px;
+}
+
+#container{
+    text-align: center;
+}
+
+#container > img{
+    width: 80%;
+}
+
+p{
+    text-align: justify;
+    margin: 5vw;
+}
+
+#header{
+    text-align: center;
+    background-color: blueviolet;
+    margin: 0px;
+}
+
+#logo{
+    width: 15vw;
+    height: auto;
+    margin-top: 5px;
+    border-radius:15px ;
+}
+
+#menu-bar{
+    text-align: center;
+    background-color: blue;
+    font-family:'Courier New', Courier, monospace;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1vw;
+    font-weight: bolder;
+    font-size: 1.5vw;
+    text-transform: uppercase;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+.sticky-bar{
+    position: fixed;
+    top:0;
+    width:100%;
+}

@@ -1,25 +1,33 @@
 # VANILLA JAVASCRIPT PROJECTS
 
-### darkmode - lightmode
+### darkmode - lightmode 
 
-### temperature converter
+### temperature converter 
 
-### word counter
+### word counter 
 
 ### form validation
 
-### stopwatch
+### stopwatch 
 
 ### to-do list
 
-### theme switcher
+### theme switcher 
 
-### counter
-
-### calculator
+### counter 
 
 ### navigation
 
 ### quiz
 
-### age calculator
+### age calculator 
+
+### random quote generator 
+
+### drum kit 
+
+## Important :-
+
+## Not Responsive.
+
+## Focused on Vanilla JavaScript and DOM.
