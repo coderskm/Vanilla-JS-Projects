@@ -6,25 +6,24 @@
 
 ### word counter 
 
-### form validation
-
 ### stopwatch 
-
-### to-do list
 
 ### theme switcher 
 
 ### counter 
 
-### navigation
+### color generator
 
-### quiz
+### github search app
 
-### age calculator 
+### lorem ipsum generator
 
-### random quote generator 
+### password generator
 
-### drum kit 
+### sticky menu bar
+
+### weather app
+ 
 
 ## Important :-
 
