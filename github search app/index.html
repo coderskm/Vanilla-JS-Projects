@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Github Search App</title>
+  </head>
+  <body>
+    <div class="main-div">
+      <h1>github search app</h1>
+      <div class="control-input">
+        <input type="text" id="github-user" placeholder="enter github's username" />
+        <button id="btn">GENERATE</button>
+      </div>
+      <p class="error-msg">Wrong Username or not authorized</p>
+
+      <div id="user-details">
+        <a id="profile-link" href="" target="_blank" title="click to visit github profile">
+          <img src="" id="profile-image" alt="image" />
+        </a>
+        <div class="info">
+          <h3 id="name">Name</h3>
+          <h3 id="username">Username</h3>
+          <h3 id="bio">Bio</h3>
+          <h3 id="company">Company</h3>
+          <h3 id="blog">Blogs</h3>
+          <h3 id="location">Location</h3>
+          <h3 id="repos">Total Repository</h3>
+          <h3 id="followers">Followers</h3>
+          <h3 id="following">Following</h3>
+        </div>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>

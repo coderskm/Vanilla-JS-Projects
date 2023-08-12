@@ -1,0 +1,60 @@
+.main-div {
+  margin: 0 auto;
+  width: 50%;
+  border: 1px solid black;
+}
+body {
+  background-color: blanchedalmond;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.control-input {
+  border-top: 1px solid black;
+  text-align: center;
+  padding: 5vh;
+}
+
+input,
+button {
+  padding: 10px;
+  margin: 5px;
+  font-size: large;
+  font-weight: bolder;
+  border: 2px solid black;
+  cursor: pointer;
+}
+
+img {
+  border-radius: 50%;
+  height: 12vw;
+  border: 5px solid darkred;
+}
+
+img:hover {
+  border: 5px solid darkblue;
+}
+
+#user-details {
+  display: none;
+}
+
+.error-msg {
+  display: none;
+  text-align: center;
+  font-size: xx-large;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.main-div {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
