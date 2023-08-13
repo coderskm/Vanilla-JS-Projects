@@ -1,30 +1,28 @@
 # VANILLA JAVASCRIPT PROJECTS
 
-### darkmode - lightmode 
+### darkmode - lightmode
 
-### temperature converter 
+### color generator
 
-### word counter 
+### temperature converter
 
-### form validation
+### word counter
 
-### stopwatch 
+### github search app
 
-### to-do list
+### lorem ipsum generator
 
-### theme switcher 
+### password generator
 
-### counter 
+### stopwatch
 
-### navigation
+### theme switcher
 
-### quiz
+### counter
 
-### age calculator 
+### sticky menu bar
 
-### random quote generator 
-
-### drum kit 
+### weather app
 
 ## Important :-
 
