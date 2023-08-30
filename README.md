@@ -24,6 +24,8 @@
 
 ### weather app
 
+### QR Code Generator
+
 ## Important :-
 
 ## Not Responsive.
