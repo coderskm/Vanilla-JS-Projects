@@ -1,30 +1,30 @@
 # VANILLA JAVASCRIPT PROJECTS
 
-### darkmode - lightmode
+### [darkmode - lightmode](https://dreamy-pasca-9e56e7.netlify.app/)
 
-### color generator
+### [color generator](http://cgen.surge.sh/)
 
-### temperature converter
+### [temperature converter](https://temp-conv.surge.sh/)
 
-### word counter
+### [word counter](https://illustrious-pika-284515.netlify.app/)
 
-### github search app
+### [github search app](https://candid-clafoutis-a41a36.netlify.app/)
 
-### lorem ipsum generator
+### [lorem ipsum generator](https://gentle-bublanina-24cd5a.netlify.app/)
 
-### password generator
+### [password generator](https://storied-otter-48c1fd.netlify.app/)
 
-### stopwatch
+### [stopwatch](https://deft-faun-9f3bd2.netlify.app/)
 
-### theme switcher
+### [theme switcher](https://heroic-puppy-95dd0e.netlify.app/)
 
-### counter
+### [counter](https://vermillion-sawine-e58aa0.netlify.app/)
 
-### sticky menu bar
+### [sticky menu bar](https://radiant-cassata-81a576.netlify.app/)
 
-### weather app
+### [weather app](https://fascinating-florentine-162d0c.netlify.app/)
 
-### QR Code Generator
+### [QR Code Generator](https://meek-kataifi-e31fe3.netlify.app/)
 
 ## Important :-
 
