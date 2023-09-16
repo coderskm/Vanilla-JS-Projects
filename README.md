@@ -6,7 +6,7 @@
 
 ### [temperature converter](https://temp-conv.surge.sh/)
 
-### [word counter](https://illustrious-pika-284515.netlify.app/)
+### [word counter](https://wacc.netlify.app/)
 
 ### [github search app](https://candid-clafoutis-a41a36.netlify.app/)
 
