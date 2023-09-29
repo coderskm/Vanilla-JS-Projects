@@ -10,7 +10,7 @@
 
 ### [github search app](https://candid-clafoutis-a41a36.netlify.app/)
 
-### [lorem ipsum generator](https://gentle-bublanina-24cd5a.netlify.app/)
+### [lorem ipsum generator](https://loremipsumg.netlify.app/)
 
 ### [password generator](https://storied-otter-48c1fd.netlify.app/)
 
